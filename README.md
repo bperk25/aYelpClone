@@ -30,7 +30,7 @@ just using those two separate elements.
 
 ## License
 
-    Copyright 2021 Michael Souliman
+    Copyright 2021 Bryant Perkins
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
